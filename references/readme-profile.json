@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 357｜One Light in the Darkroom: keeps the photograph on the upper half with no added words, and rebuilds only its most recognisable subject, outline, structure, pose and relation below as a very small figure set low in front of the single light in an almost black field — one soft-edged, self-luminous rectangle — the near side bright, the far side sunk into black, with a faint cool rim and a faint warm rim, the light and subject slightly soft, a tiny even white cross grid sharp across the field, and one short white bold word stretched wide across the middle over part of the subject, plus a tiny line at the top and one three-part line at the bottom. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-357 or asks for a darkroom concept poster, one cool rectangle of light, or a small subject under a white cross grid from a photo.",
+  "short_description": "暗室一块光：把照片主体缩得很小，低低地放在唯一一块冷光前面",
+  "zh-CN": {
+    "name": "暗室一块光",
+    "tagline": "把照片主体缩得很小，低低地放在暗室里唯一一块冷光前面。",
+    "look": "下半部分只留下照片里最认得出的主体、轮廓、结构、姿态和叙事关系，缩成很小的一块，低低地待在唯一一块光的前面；上半部分仍是原来的照片，不另加文字，照片里原有的招牌和印刷字也不搬下来。画面几乎全黑，光源是一块边缘柔和、自己发光的长方形，朝光的一侧发亮，背光一侧沉进黑里，轮廓微微分出一冷一暖的色边；光和主体略带柔焦，极小而等距的白色十字网格却铺满整幅并且锐利，地面上留一层被光扫到的冷色微光。光和主体在中部略偏一侧，四周大片是黑，主体完整、头顶留一点空、不碰到中间折痕；颜色取照片里最冷、最静的饱和色，收成一块饱和冷光和近白的受光边，冷光只在长方形和晕开的一圈里。一个不念东西名字、写成主角此刻心声、只说隐喻的短词被放大成画面主角，白色粗体无衬线、字距拉开，横跨中部、两侧不碰边，只遮住主体的一部分，整个词仍认得出来；顶上另有一行极小的白色短句，底下一行分成三段小字，年份每张另起，中文用简体。",
+    "traits": [
+      "几乎全黑的画面",
+      "一块柔边冷光",
+      "很小的低位主体",
+      "白色十字网格",
+      "字距拉开的白字"
+    ],
+    "good": [
+      "独自对着一处光的人、动物或器物：窗边站着的人、低头的猫、夜里亮着的一扇窗",
+      "轮廓和姿态一眼认得的单体：侧过身的人、剪影清楚的一栋房子、桌上的一把琴",
+      "构图乱、背景杂或主体很小的照片，会被压暗缩小，只留一个单体在光前"
+    ],
+    "poor": [
+      "需要留下整条街、一群人或许多物件的照片，这里只留一个单体",
+      "想把画面照亮、把主体画大，或让主体正对镜头的需求",
+      "想要第二处光源、暖色铺开，或把招牌文字搬进下半部分的需求"
+    ]
+  },
+  "en": {
+    "name": "One Light in the Darkroom",
+    "tagline": "Shrinks the subject very small and sets it low in front of the only soft light in a near-black field.",
+    "look": "The lower half keeps only the most recognisable subject, outline, structure, pose and narrative relation, shrunk very small and set low in front of the single light, while the upper half stays the original photograph with no added words, and signs or printed text already in the photo are not copied down. The field is almost entirely black; the light is one soft-edged, self-luminous rectangle, the side turned toward it bright and the far side sunk into black, with a faint cool rim and a faint warm rim on the contour, the light and subject slightly soft like a snapshot that missed focus, while a tiny, evenly spaced white cross grid covers the whole field and stays sharp, and a thin cool glow lies on the ground where the light sweeps. Light and subject sit a little off centre, the rest clean black, the subject complete with a little space above the head and nothing touching the centre fold; the colour is the coldest, quietest saturated colour from the photograph, held as near-black, one saturated cool light and near-white lit edges, the cool light only inside the rectangle and its halo. One short word, an inner line and a metaphor for this photograph, that does not name the thing is enlarged into the main mark, white bold sans-serif with wide letter-spacing, stretched across the middle clear of both edges and covering only part of the subject so the whole word stays readable, with one very small white sentence at the top and one bottom line in three short segments, the year begun anew each time, and Chinese set in simplified characters.",
+    "traits": [
+      "Near-black field",
+      "One soft-edged cool light",
+      "Very small, low subject",
+      "White cross grid",
+      "Widely spaced white word"
+    ],
+    "good": [
+      "A person, animal or object alone with one light: someone at a window, a cat with its head down, a window lit at night",
+      "A single thing with a clear outline and pose: a person turned sideways, a house with a readable silhouette, an instrument on a table",
+      "Photos with a messy frame, a cluttered background or a small subject, which are darkened and reduced to one thing in front of the light"
+    ],
+    "poor": [
+      "Photos that need a whole street, a crowd or many objects kept at once, since only one thing remains",
+      "Requests to light the field, draw the subject large, or show it facing the camera",
+      "Requests for a second light, warm colour spread across the field, or shop signs copied into the lower half"
+    ]
+  },
+  "ja": {
+    "name": "暗室の一つの光",
+    "tagline": "写真の主体をごく小さくし、ほぼ真っ黒な画面で唯一の柔らかい光の前に低く置きます。",
+    "look": "下半分には、写真でいちばん見分けのつく主体と輪郭、構造、姿勢、語りの関係だけを残してごく小さくし、唯一の光の前に低く置き、上半分は元の写真のままで文字は加えず、写真にもとからある看板や印刷文字は下へ移しません。画面はほとんど真っ黒で、光源は縁がやわらかく自ら光る長方形ひとつ、光に向いた側は明るく反対側は黒に沈み、輪郭には冷たい色と暖かい色の細い縁がわずかに分かれ、光と主体は焦点の外れたスナップのように少し柔らかく、極小で等間隔の白い十字グリッドだけが画面全体に鋭く敷かれ、地面には光が掃いた冷たい微光が残ります。光と主体は中央から少し片側に寄り、ほかは広い黒で、主体は欠けず頭上に空きを残して中央の折れ目に触れず、色は写真で最も冷たく静かな彩度から取り、ほぼ黒と飽和した冷光ひとつ、光の当たった近白の縁にまとめ、冷光はその長方形と滲みの輪だけに置きます。物の名前は呼ばず、主役の今の心の声として、その写真の比喩だけを言う最短の語を白い太ゴシックで字間を大きく空けて画面中央を横切る主役の文字にし、両端には余白を残して端に触れず主体の一部だけを覆って語は最後まで読めるようにし、上に極小の白い短文一行、下に三段に分かれた小さな文字の一行を入れ、年は一枚ごとに新しくし、中国語は簡体字にします。",
+    "traits": [
+      "ほとんど真っ黒な画面",
+      "縁のやわらかい冷光",
+      "低く小さい主体",
+      "白い十字グリッド",
+      "字間を空けた白い太字"
+    ],
+    "good": [
+      "一つの光にひとりで向き合う人、動物、器物：窓辺に立つ人、うつむく猫、夜に灯った窓",
+      "輪郭と姿勢がすぐ分かる単体：横を向いた人、シルエットの明確な家、机の上の楽器",
+      "構図が散漫、背景が雑然、主体が小さい写真（暗く小さくし、光の前に一つだけ残します）"
+    ],
+    "poor": [
+      "通り全体や群衆、たくさんの物を同時に残したい写真（単体だけを残します）",
+      "画面を明るくしたい、主体を大きくしたい、正面からカメラを向かせたい場合",
+      "二つ目の光源、画面に広がる暖色、看板の文字を下半分へ移したい場合"
+    ]
+  },
+  "ko": {
+    "name": "암실의 한 빛",
+    "tagline": "사진 속 주체를 아주 작게 줄여, 거의 검은 화면에서 유일한 부드러운 빛 앞에 낮게 둡니다.",
+    "look": "아래쪽에는 사진에서 가장 알아보기 쉬운 주체와 윤곽, 구조, 자세, 이야기 속 관계만 남겨 아주 작게 줄여 유일한 빛 앞에 낮게 두고, 위쪽은 원래 사진 그대로 두며 글자를 더하지 않고, 사진에 있던 간판과 인쇄된 글자도 아래로 옮기지 않습니다. 화면은 거의 온통 검고, 광원은 가장자리가 부드러운 스스로 빛나는 직사각형 하나이며, 빛을 향한 쪽은 밝고 등진 쪽은 검게 잠기고, 윤곽에는 차가운 색과 따뜻한 색의 가는 테두리가 살짝 갈라지며, 빛과 주체는 초점이 빗나간 스냅처럼 조금 부드럽고, 아주 작고 고른 간격의 흰색 십자 격자만 화면 전체에 날카롭게 깔리며, 바닥에는 빛이 스친 차가운 잔광이 한 층 남습니다. 빛과 주체는 가운데에서 한쪽으로 조금 치우치고 나머지는 넓은 검정이라, 주체는 잘리지 않고 머리 위에 여유가 있으며 가운데 접힘에 닿지 않고, 색은 사진에서 가장 차갑고 고요한 채도의 색을 거의 검정과 포화된 차가운 빛 하나, 빛을 받은 거의 흰색 가장자리로 모아 차가운 빛은 그 직사각형과 번진 테두리 안에만 둡니다. 사물 이름을 부르지 않고, 주인공의 속마음이면서 이 사진의 비유만 말하는 가장 짧은 단어를 흰색 굵은 산세리프로 자간을 크게 벌려 화면 가운데를 가로지르는 주인공 글자로 두고, 양쪽은 여백으로 가장자리에 닿지 않게 하며 주체의 일부만 가려 단어 전체가 읽히게 하고, 위에는 아주 작은 흰색 짧은 문장 한 줄, 아래에는 세 토막으로 나뉜 작은 글 한 줄을 넣으며, 연도는 장마다 새로 시작하고 중국어는 간체로 씁니다.",
+    "traits": [
+      "거의 온통 검은 화면",
+      "가장자리 부드러운 냉광",
+      "낮고 작은 주체",
+      "흰색 십자 격자",
+      "자간을 벌린 흰색 굵은 글자"
+    ],
+    "good": [
+      "빛 하나를 홀로 마주한 사람, 동물, 물건: 창가에 선 사람, 고개 숙인 고양이, 밤에 켜진 창",
+      "윤곽과 자세가 바로 읽히는 단일 대상: 옆을 향한 사람, 실루엣이 분명한 집, 탁자 위의 악기",
+      "구도가 산만하거나 배경이 어수선하거나 주체가 작은 사진(어둡고 작게 줄여 빛 앞에 하나만 남깁니다)"
+    ],
+    "poor": [
+      "거리 전체나 무리, 여러 물건을 함께 남기고 싶은 사진(하나만 남깁니다)",
+      "화면을 밝히거나 주체를 크게 그리거나 카메라를 정면으로 보게 하려는 경우",
+      "두 번째 광원, 화면을 덮는 따뜻한 색, 간판 글자를 아래쪽으로 옮기려는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ضوء واحد في العتمة",
+    "tagline": "يصغّر العنصر جدًا ويضعه منخفضًا أمام الضوء الناعم الوحيد في حقل يكاد يكون أسود.",
+    "look": "يبقي النصف السفلي العنصر الأوضح في الصورة مع محيطه وبنيته ووضعه وعلاقته السردية فقط، مصغَّرًا جدًا ومنخفضًا أمام الضوء الوحيد، ويبقى النصف العلوي الصورة الأصلية بلا كلمات مضافة، ولا تُنقل اللافتات ولا النص المطبوع من الصورة إلى الأسفل. يكاد الحقل يكون أسود بالكامل، والضوء مستطيل واحد ذو حافة ناعمة يضيء من ذاته، فالجهة المقابلة له مضيئة والجهة البعيدة تغوص في السواد، وعلى المحيط حافة باردة خفيفة وحافة دافئة خفيفة، والضوء والعنصر ليّنان قليلًا كأن البؤرة لم تُضبط، بينما تغطي شبكة صلبان بيضاء دقيقة متساوية المسافات الحقل كله وتبقى حادّة، وعلى الأرض طبقة خفيفة من وهج بارد حيث يمسح الضوء. يقع الضوء والعنصر قرب الوسط مائلين قليلًا إلى جانب، والباقي سواد واسع، والعنصر كامل مع فراغ فوق الرأس ومن دون أن يلمس خط الطي في الوسط، واللون هو أكثر لون مشبع برودة وهدوء في الصورة، يُضبط إلى ما يقارب الأسود وضوء بارد مشبع واحد وحواف مضاءة قريبة من الأبيض، ولا يوجد الضوء البارد إلا داخل المستطيل وهالته. تُكبَّر أقصر كلمة، خاطر داخلي واستعارة لهذه الصورة، ولا تسمّي الشيء لتصبح العلامة الرئيسة، بخط أبيض عريض بلا مذيلات وتباعد حروف واسع، ممتدة عبر الوسط بعيدًا عن الحافتين وتغطي جزءًا من العنصر فقط بحيث تبقى الكلمة مقروءة، مع جملة بيضاء صغيرة جدًا في الأعلى وسطر سفلي من ثلاثة مقاطع قصيرة، وتُكتب السنة من جديد في كل صورة، والصينية بالخط المبسّط.",
+    "traits": [
+      "حقل يكاد يكون أسود",
+      "ضوء بارد بحافة ناعمة",
+      "عنصر صغير منخفض",
+      "شبكة صلبان بيضاء",
+      "كلمة بيضاء متباعدة الحروف"
+    ],
+    "good": [
+      "شخص أو حيوان أو شيء وحده مع ضوء واحد: شخص عند نافذة، قطة مطأطئة الرأس، نافذة مضاءة في الليل",
+      "عنصر واحد بمحيط ووضع واضحين: شخص استدار جانبًا، بيت بظلّ واضح، آلة على طاولة",
+      "صور مضطربة التكوين أو بخلفية مزدحمة أو بعنصر صغير، تُعتَّم وتُصغَّر ويبقى شيء واحد أمام الضوء"
+    ],
+    "poor": [
+      "صور تحتاج إلى شارع كامل أو حشد أو أشياء كثيرة معًا، إذ لا يبقى إلا عنصر واحد",
+      "طلب إضاءة الحقل أو تكبير العنصر أو إظهاره مواجهًا للكاميرا",
+      "طلب ضوء ثانٍ أو لون دافئ ينتشر في الحقل أو نقل لافتات المتاجر إلى النصف السفلي"
+    ]
+  }
+}
