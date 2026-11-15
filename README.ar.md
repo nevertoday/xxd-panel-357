@@ -83,7 +83,7 @@ npx skills add https://github.com/nevertoday/xxd-panel-357 --skill xxd-panel-357
 </table>
 
 <details>
-<summary>عرض 15 أخرى</summary>
+<summary>عرض 16 أخرى</summary>
 
 <table>
   <tr>
@@ -96,26 +96,27 @@ npx skills add https://github.com/nevertoday/xxd-panel-357 --skill xxd-panel-357
   </tr>
   <tr>
     <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 357 · 09 · مشي بطيء وحيد"><br><sub>09 · مشي بطيء وحيد</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 357 · 10 · دراجة متوقفة"><br><sub>10 · دراجة متوقفة</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 357 · 10 · كلب في الحقل"><br><sub>10 · كلب في الحقل</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 357 · 11 · قارب خشبي على الضفة"><br><sub>11 · قارب خشبي على الضفة</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 357 · 12 · كرسي فارغ"><br><sub>12 · كرسي فارغ</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 357 · 11 · دراجة متوقفة"><br><sub>11 · دراجة متوقفة</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 357 · 12 · قارب خشبي على الضفة"><br><sub>12 · قارب خشبي على الضفة</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-13.png" alt="XXD Panel 357 · 13 · غلاية حديد سوداء"><br><sub>13 · غلاية حديد سوداء</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 357 · 14 · شخص بقبعة قش"><br><sub>14 · شخص بقبعة قش</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-13.png" alt="XXD Panel 357 · 13 · كرسي فارغ"><br><sub>13 · كرسي فارغ</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 357 · 14 · غلاية حديد سوداء"><br><sub>14 · غلاية حديد سوداء</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 357 · 15 · خيمة قماشية"><br><sub>15 · خيمة قماشية</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 357 · 16 · رغيف خبز"><br><sub>16 · رغيف خبز</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 357 · 15 · شخص بقبعة قش"><br><sub>15 · شخص بقبعة قش</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 357 · 16 · خيمة قماشية"><br><sub>16 · خيمة قماشية</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 357 · 17 · زبدية خزف أبيض"><br><sub>17 · زبدية خزف أبيض</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 357 · 18 · وعاء كمثرى"><br><sub>18 · وعاء كمثرى</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 357 · 17 · رغيف خبز"><br><sub>17 · رغيف خبز</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 357 · 18 · زبدية خزف أبيض"><br><sub>18 · زبدية خزف أبيض</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 357 · 19 · خروف على العشب"><br><sub>19 · خروف على العشب</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 357 · 19 · وعاء كمثرى"><br><sub>19 · وعاء كمثرى</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 357 · 20 · خروف على العشب"><br><sub>20 · خروف على العشب</sub></td>
   </tr>
 </table>
 
@@ -125,49 +126,50 @@ npx skills add https://github.com/nevertoday/xxd-panel-357 --skill xxd-panel-357
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 357 · 20 · أسد بحر على صخرة"><br><sub>20 · أسد بحر على صخرة</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 357 · 21 · شخص عند الباب"><br><sub>21 · شخص عند الباب</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 357 · 21 · أسد بحر على صخرة"><br><sub>21 · أسد بحر على صخرة</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 357 · 22 · شخص عند الباب"><br><sub>22 · شخص عند الباب</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 357 · 22 · يوغا فردية"><br><sub>22 · يوغا فردية</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 357 · 23 · راقصة تميل إلى الخلف"><br><sub>23 · راقصة تميل إلى الخلف</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 357 · 23 · يوغا فردية"><br><sub>23 · يوغا فردية</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 357 · 24 · راقصة تميل إلى الخلف"><br><sub>24 · راقصة تميل إلى الخلف</sub></td>
   </tr>
 </table>
 
 <details>
-<summary>عرض 15 أخرى</summary>
+<summary>عرض 16 أخرى</summary>
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 357 · 24 · زرافة واقفة"><br><sub>24 · زرافة واقفة</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 357 · 25 · بطريق على صخرة"><br><sub>25 · بطريق على صخرة</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 357 · 25 · زرافة واقفة"><br><sub>25 · زرافة واقفة</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 357 · 26 · بطريق على صخرة"><br><sub>26 · بطريق على صخرة</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 357 · 26 · ببغاء المكاو"><br><sub>26 · ببغاء المكاو</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 357 · 27 · أرنب متدلّي الأذنين"><br><sub>27 · أرنب متدلّي الأذنين</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 357 · 27 · ببغاء المكاو"><br><sub>27 · ببغاء المكاو</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 357 · 28 · أرنب متدلّي الأذنين"><br><sub>28 · أرنب متدلّي الأذنين</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 357 · 28 · ديك الفناء"><br><sub>28 · ديك الفناء</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 357 · 29 · نحام المياه الضحلة"><br><sub>29 · نحام المياه الضحلة</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 357 · 29 · ديك الفناء"><br><sub>29 · ديك الفناء</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 357 · 30 · نحام المياه الضحلة"><br><sub>30 · نحام المياه الضحلة</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 357 · 30 · صبار عمودي"><br><sub>30 · صبار عمودي</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 357 · 31 · صنوبرة وحيدة على صخرة"><br><sub>31 · صنوبرة وحيدة على صخرة</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 357 · 31 · صبار عمودي"><br><sub>31 · صبار عمودي</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 357 · 32 · بومة على عمود خشبي"><br><sub>32 · بومة على عمود خشبي</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 357 · 32 · نبتة صبار الألوة"><br><sub>32 · نبتة صبار الألوة</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 357 · 33 · زجاجة"><br><sub>33 · زجاجة</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 357 · 33 · صنوبرة وحيدة على صخرة"><br><sub>33 · صنوبرة وحيدة على صخرة</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 357 · 34 · نبتة صبار الألوة"><br><sub>34 · نبتة صبار الألوة</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 357 · 34 · حذاء مطر واقف"><br><sub>34 · حذاء مطر واقف</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 357 · 35 · سلم خشبي على الجدار"><br><sub>35 · سلم خشبي على الجدار</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 357 · 35 · زجاجة"><br><sub>35 · زجاجة</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 357 · 36 · حذاء مطر واقف"><br><sub>36 · حذاء مطر واقف</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 357 · 36 · شخص بمعطف"><br><sub>36 · شخص بمعطف</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 357 · 37 · عنقود عنب"><br><sub>37 · عنقود عنب</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 357 · 37 · سلم خشبي على الجدار"><br><sub>37 · سلم خشبي على الجدار</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 357 · 38 · شخص بمعطف"><br><sub>38 · شخص بمعطف</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 357 · 38 · نخلة في أصيص"><br><sub>38 · نخلة في أصيص</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 357 · 39 · عنقود عنب"><br><sub>39 · عنقود عنب</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 357 · 40 · نخلة في أصيص"><br><sub>40 · نخلة في أصيص</sub></td>
   </tr>
 </table>
 

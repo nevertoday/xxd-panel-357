@@ -113,6 +113,18 @@
     },
     {
       "file": "assets/examples/sample-10.png",
+      "sha256": "e5e0bfa0c137810298c7e43b3a8f2b326c9e6ea83a8e79e3f56654333c0af14e",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "e80a8213f963c171eed185cdacd42dba260451cb116628210b888fe50d091178",
+      "subject": "田野里的狗",
+      "unsplash_id": "photo-1741229694067-58f0b4ba34cf",
+      "text_locale": "ar",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-11.png",
       "sha256": "416b906323c5096f1a13d9a6e8f35d6cec4da5e1386384b63f6fdc88d434eaf6",
       "width": 1152,
       "height": 1536,
@@ -124,7 +136,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-11.png",
+      "file": "assets/examples/sample-12.png",
       "sha256": "f9c12aa07d3e68710a1183d951a92c0824e7b436a33829e0646b245885f1535b",
       "width": 1152,
       "height": 1536,
@@ -136,7 +148,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-12.png",
+      "file": "assets/examples/sample-13.png",
       "sha256": "f59b79958374f8d5bfb51bcece59fc6e4bfee81715822cd8f86f7650c3fe34ad",
       "width": 1152,
       "height": 1536,
@@ -148,7 +160,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-13.png",
+      "file": "assets/examples/sample-14.png",
       "sha256": "74e9dc7ab80bee1b5323e0bd139eae243bb78f2617b54ae80568e88edbe7288a",
       "width": 1152,
       "height": 1536,
@@ -160,7 +172,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-14.png",
+      "file": "assets/examples/sample-15.png",
       "sha256": "45e86a1b500e98a50226c969d1ab6b9a35309295b4415bf601d5ef33652eb126",
       "width": 1152,
       "height": 1536,
@@ -172,7 +184,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-15.png",
+      "file": "assets/examples/sample-16.png",
       "sha256": "9077d2bd32c2ce09e5409dcfac35f95a2b9cd16b1a90edbbf39623f1492f3fae",
       "width": 1152,
       "height": 1536,
@@ -184,7 +196,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-16.png",
+      "file": "assets/examples/sample-17.png",
       "sha256": "fa65fb77d0d8f5923791460845236dedcef4e628e645252b6a64290ff4e19fad",
       "width": 1152,
       "height": 1536,
@@ -196,7 +208,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-17.png",
+      "file": "assets/examples/sample-18.png",
       "sha256": "5ac330cad07876e6fd6a10d7cb2a0da79e0a8ec7c1abadbf699c6e9de273866a",
       "width": 1152,
       "height": 1536,
@@ -208,7 +220,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-18.png",
+      "file": "assets/examples/sample-19.png",
       "sha256": "9be5a75bd1732cdd82883e40f612e9c5286c811e9067e8b9703b52ada71ab8e8",
       "width": 1152,
       "height": 1536,
@@ -220,7 +232,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-19.png",
+      "file": "assets/examples/sample-20.png",
       "sha256": "554ae2580686a6c99750edef71b862e4bd55ebd87f3675b459008cf7043c775b",
       "width": 1152,
       "height": 1536,
@@ -232,7 +244,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-20.png",
+      "file": "assets/examples/sample-21.png",
       "sha256": "96636e7ed083ba494a64f9f75b310b28770fd7f6790348d8ba34fee55fe9681c",
       "width": 1536,
       "height": 864,
@@ -244,7 +256,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-21.png",
+      "file": "assets/examples/sample-22.png",
       "sha256": "95cbc53cb0dd48297d3512b32f6f4c96d747adf91952b8d0dcc14a4bd9cb67dc",
       "width": 1536,
       "height": 864,
@@ -256,7 +268,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-22.png",
+      "file": "assets/examples/sample-23.png",
       "sha256": "26b5676df7fc45bd557a984ca221529e6a28145717d37b92c0d47014f252b6fc",
       "width": 1536,
       "height": 864,
@@ -268,7 +280,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-23.png",
+      "file": "assets/examples/sample-24.png",
       "sha256": "9599a779a13c4f58c4cb5a1ac6a003f99639402c389228c8a1b62745e5a69533",
       "width": 1536,
       "height": 864,
@@ -280,7 +292,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-24.png",
+      "file": "assets/examples/sample-25.png",
       "sha256": "473e21d3389196549d7a65843d3fdd5c53f7fc94837987605538a014bae104d8",
       "width": 1536,
       "height": 864,
@@ -292,7 +304,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-25.png",
+      "file": "assets/examples/sample-26.png",
       "sha256": "8896246f0190159797e1d52ec89fe25efb6dcf3f6ea3af7d7257314c0c8e25f4",
       "width": 1536,
       "height": 864,
@@ -304,7 +316,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-26.png",
+      "file": "assets/examples/sample-27.png",
       "sha256": "2fc88a54e3bb629029ae631dd9a93cdf240282e6821f57366006def6f12d8bbb",
       "width": 1536,
       "height": 864,
@@ -316,7 +328,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-27.png",
+      "file": "assets/examples/sample-28.png",
       "sha256": "dc14ac710eb0483f57dcc0184b8797e6fad905f8c59744f1e954866c4a6bd59a",
       "width": 1536,
       "height": 864,
@@ -328,7 +340,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-28.png",
+      "file": "assets/examples/sample-29.png",
       "sha256": "8144310aa6f1b0dda437797a377b6f597a5dcd2d3a872e1f648d810933d01eb8",
       "width": 1536,
       "height": 864,
@@ -340,7 +352,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-29.png",
+      "file": "assets/examples/sample-30.png",
       "sha256": "257b79048936922c6ae682907d612cbdd63b38b6b1ff755fa6cf377a2ecb30b0",
       "width": 1536,
       "height": 864,
@@ -352,7 +364,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-30.png",
+      "file": "assets/examples/sample-31.png",
       "sha256": "327d7a856034c4f4d4bc89838bf9f0b850330258fb3b790b71c6d4a33417cfce",
       "width": 1536,
       "height": 864,
@@ -364,7 +376,19 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-31.png",
+      "file": "assets/examples/sample-32.png",
+      "sha256": "9c24118b1d0f444d56b582e5841a6515f8659989f5cab17ca94c01ab59fa65be",
+      "width": 1536,
+      "height": 864,
+      "mode": "left-right",
+      "source_sha256": "e80a8213f963c171eed185cdacd42dba260451cb116628210b888fe50d091178",
+      "subject": "桩上猫头鹰",
+      "unsplash_id": "photo-1715523692156-77aebf1a1d43",
+      "text_locale": "ja-JP",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-33.png",
       "sha256": "c17b8a7910ff9b7da9ebd58ff17aa65ce737ecc5f8f7338038ecb7fec2a0688d",
       "width": 1536,
       "height": 864,
@@ -376,7 +400,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-32.png",
+      "file": "assets/examples/sample-34.png",
       "sha256": "f9155df59bea3b50ab02d1829f7deb74d469837d525977ec9ce00f1a32578395",
       "width": 1536,
       "height": 864,
@@ -388,7 +412,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-33.png",
+      "file": "assets/examples/sample-35.png",
       "sha256": "fc4a6dcf737c57ac7339dcd82054b1fd1d86c59848545f46fb4e064869ffb050",
       "width": 1536,
       "height": 864,
@@ -400,7 +424,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-34.png",
+      "file": "assets/examples/sample-36.png",
       "sha256": "0b75869a4f1f3b5a56c9160300567fa4a70d07c6d4ce886d534bdb00e17161d4",
       "width": 1536,
       "height": 864,
@@ -412,7 +436,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-35.png",
+      "file": "assets/examples/sample-37.png",
       "sha256": "372dd623ddea122ceb680bd19af3ad693c28f0e7db85bce63987e85be1870078",
       "width": 1536,
       "height": 864,
@@ -424,7 +448,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-36.png",
+      "file": "assets/examples/sample-38.png",
       "sha256": "b11754c96e882a00c60632f1cde2da86ffb0b142d4d3c387e6d77cc627ed3b61",
       "width": 1536,
       "height": 864,
@@ -436,7 +460,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-37.png",
+      "file": "assets/examples/sample-39.png",
       "sha256": "02820b49a584499cba0f0f0dd3899b0336ec7f0397509d0e55ae3567d90b49d8",
       "width": 1536,
       "height": 864,
@@ -448,7 +472,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-38.png",
+      "file": "assets/examples/sample-40.png",
       "sha256": "d55150d81514326d70972b614890618ed0c674a1c32ae44ae8860ea7c1140067",
       "width": 1536,
       "height": 864,
